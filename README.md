@@ -5,7 +5,7 @@
 To develop a Python program to find the optimal policy for the given RL environment using SARSA-Learning and compare the state values with the Monte Carlo method.
 
 ## PROBLEM STATEMENT
-SARSA Stands for STATE,ACTION,REWARD,NEXT STATE,NEXT ACTION. Train agent with SARSA in Gym environment, making sequential decisions for maximizing cumulative rewards.
+Design and implement a Python program to explore and exploit the optimal policy in a given reinforcement learning (RL) environment using SARSA-Learning algorithm. The program should iteratively update state-action values based on experiences gained from interactions with the environment, aiming to converge towards the optimal policy. Furthermore, the implementation should include mechanisms for policy evaluation and improvement using SARSA. Additionally, conduct a comparative analysis by evaluating state values obtained through SARSA-Learning against those obtained through the Monte Carlo method, highlighting similarities, differences, and performance metrics to assess the effectiveness of both approaches in solving the RL problem.s.
 
 ## SARSA LEARNING ALGORITHM
 Step 1:
